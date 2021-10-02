@@ -6,6 +6,7 @@
     Está section aparecerá dentro do layout onde foi chamada
     "main_layout"-->
 <?= $this->section('conteudo')?> 
+    <?php log_message('info', 'App foi acessado.');?>
 
     <header class="container">
         <div class="row">
