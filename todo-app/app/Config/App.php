@@ -23,7 +23,7 @@ class App extends BaseConfig
      *
      * @var string
      */
-    public $baseURL = 'https://stefanyizidio.xyz/todo-app/public/';
+    public $baseURL = 'https://stefanyizidio.xyz/todo-app/';
 
     /**
      * --------------------------------------------------------------------------
